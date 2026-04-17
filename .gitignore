@@ -30,12 +30,18 @@ wheels/
 *.swp
 *.swo
 
-# Output
+# Output - 输出结果不提交
 output/
-*.jpg
-*.jpeg
-*.png
-!.gitkeep
+
+# 示例图片 - 不提交
+content.jpg
+style.jpg
+dm.jpg
+jbh.jpg
+rw.jpg
+sc.jpg
+sm.jpg
+yh.jpg
 
 # OS
 .DS_Store
